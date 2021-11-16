@@ -1,4 +1,4 @@
-Оригинальный репозитарий
+Оригинальный репозитарий.  
 https://github.com/firecracker-microvm/firecracker
 
 # Firecracker-demo
